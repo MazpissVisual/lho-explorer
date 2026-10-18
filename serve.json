@@ -1,0 +1,12 @@
+{
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/beranda", "destination": "/index.html" },
+    { "source": "/tujuan", "destination": "/index.html" },
+    { "source": "/video", "destination": "/index.html" },
+    { "source": "/materi", "destination": "/index.html" },
+    { "source": "/contoh", "destination": "/index.html" },
+    { "source": "/latihan", "destination": "/index.html" }
+  ]
+}
